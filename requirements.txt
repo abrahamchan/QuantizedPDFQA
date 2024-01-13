@@ -1,0 +1,7 @@
+torch
+langchain
+tiktoken
+chromadb
+pypdf
+transformers
+InstructorEmbedding
