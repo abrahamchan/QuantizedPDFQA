@@ -2,6 +2,7 @@ torch
 langchain
 tiktoken
 chromadb
+huggingface_hub
 pypdf
 transformers
 InstructorEmbedding
